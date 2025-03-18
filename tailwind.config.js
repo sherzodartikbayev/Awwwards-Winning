@@ -13,17 +13,17 @@ export default {
 			colors: {
 				blue: {
 					50: '#DFDFF0',
-					75: '#DFDFF2',
-					100: '#FOF02FA',
+					75: '#dfdff2',
+					100: '#F0F2FA',
 					200: '#010101',
 					300: '#4FB7DD',
 				},
 				violet: {
-					300: '#5724FF',
+					300: '#5724ff',
 				},
 				yellow: {
-					100: '#8E983F',
-					300: '#EDFF66'
+					100: '#8e983f',
+					300: '#edff66',
 				},
 			},
 		},
