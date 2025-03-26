@@ -1,12 +1,55 @@
-# React + Vite
+![Awards](https://github.com/user-attachments/assets/c5f90371-f072-4069-8e50-b2a8573f8b19)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center" id="title">Awwwards Winning Website</h1>
 
-Currently, two official plugins are available:
+<p id="description">Awwwards Winning Website 3D animation with using React.js Tailwind CSS GSAP</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# <h2>🚀 Live Demo</h2>
+Check out the live demo: [Awards Winning Website](https://awards-winning-five.vercel.app/)
 
-## Expanding the ESLint configuration
+# <h2>💻 Built with</h2>    
+Technologies used in the project:
+- **React**
+- **Tailwind CSS**
+- **GSAP**
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# <h2>🔋 Features</h2>
+👉 **Scroll-Based Animations:** Dynamic animations triggered by scrolling for a more engaging user experience.
+👉 **Clip Path Shaped Animations:** Unique geometric transitions using CSS clip-paths to create visually stunning effects.
+👉 **3D Hover Effects:** Interactive 3D transformations that respond to user interactions for a modern feel.
+👉 **Video Transitions:** Seamlessly integrated video elements to enhance storytelling and flow.
+👉 **Smooth UI/UX:** Polished interfaces with buttery-smooth interactions for an intuitive user journey.
+👉 **Completely Responsive:** Flawless adaptation across all devices, ensuring a consistent experience.
+and many more, including code architecture and reusability
+
+# <h2>🛠️ Installation Steps:</h2>
+
+```bash
+# Clone the repository
+git clone https://github.com/sherzodartikbayev/Awwwards-Winning.git
+```
+
+```bash
+# Navigate to the project directory
+cd awwwards-winning
+```
+
+```bash
+# Install dependencies
+npm install
+```
+
+```bash
+# Start the development server
+npm run dev
+```
+
+# 📬 Contact
+If you have any questions or suggestions, feel free to reach out:
+
+- GitHub: [sherzodartikbayev](https://github.com/sherzodartikbayev)
+- Email: sherzadartikbayev@gmail.com
+- Telegram: [sherzod_artikbayev](https://t.me/sherzod_artikbayev)
+- LinkedIn: [Sherzod Artikbayev](https://www.linkedin.com/in/sherzod3105/)
+- Facebook: [Sherzod Artikbayev](https://www.facebook.com/sherz0dartikbayev)
+- Twitter: [Sherzod Artikbayev](https://x.com/SherzadArt74344)
